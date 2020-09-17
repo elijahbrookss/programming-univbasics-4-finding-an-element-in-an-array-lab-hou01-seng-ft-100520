@@ -12,4 +12,4 @@ def find_element_index(array, value_to_find)
 end
 
 
-find_element_index([2, 4, 5, 6], 0);
+find_element_index([2, 4, 5, 6], 3);
