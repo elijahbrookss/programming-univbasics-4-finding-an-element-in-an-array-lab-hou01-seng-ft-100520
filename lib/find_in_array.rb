@@ -1,6 +1,7 @@
 
 
 def find_element_index(array, value_to_find)
+  print "start"
   for i in array do
     if (array[i] == value_to_find) then
       print(i);
