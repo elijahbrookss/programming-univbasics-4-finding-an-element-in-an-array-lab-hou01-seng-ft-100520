@@ -9,3 +9,6 @@ def find_element_index(array, value_to_find)
   end
   return nil
 end
+
+
+find_element_index([2, 4, 5, 6], 0);
